@@ -1,0 +1,7 @@
+Takoma_store 2.7 71.3 14.7 23.9 51.2
+Bethesda_store 12.7 8.9 17.8 7.9 18.3
+Triangle_store 2.4 73.0 14.9 23.1 51.4
+Calmday_store 12.7 8.1 19.8 27.9 8.3
+Vincent_store 6.7 74.3 19.7 21.9 50.2
+Ivy_store 1.7 3.0 67.8 97.9 38.3
+Pierre_store 45.7 31.3 84.7 49.9 73.2

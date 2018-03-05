@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab 3.2.cpp
+  Lab 3.1.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  stdafx.cpp
+Lab 3.2.obj : error LNK2005: _main already defined in Lab 3.1.obj
+c:\users\fleur\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\Lab 3 Fleurevca Francois.exe : fatal error LNK1169: one or more multiply defined symbols found

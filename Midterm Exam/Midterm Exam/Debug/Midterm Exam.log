@@ -1,0 +1,10 @@
+﻿  Midterm.cpp
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(52): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\midterm exam\midterm exam\midterm.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Midterm Exam.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Midterm Exam\Debug\Midterm Exam.exe
+  Midterm Exam.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Midterm Exam\Debug\Midterm Exam.pdb (Full PDB)

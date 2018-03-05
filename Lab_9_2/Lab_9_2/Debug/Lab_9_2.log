@@ -1,0 +1,8 @@
+﻿  9_2.cpp
+c:\users\fleur\documents\visual studio 2015\projects\lab_9_2\lab_9_2\9_2.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\lab_9_2\lab_9_2\9_2.cpp(68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\lab_9_2\lab_9_2\9_2.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\lab_9_2\lab_9_2\9_2.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\lab_9_2\lab_9_2\9_2.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab_9_2.vcxproj -> C:\Users\fleur\documents\visual studio 2015\Projects\Lab_9_2\Debug\Lab_9_2.exe
+  Lab_9_2.vcxproj -> C:\Users\fleur\documents\visual studio 2015\Projects\Lab_9_2\Debug\Lab_9_2.pdb (Full PDB)

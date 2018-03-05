@@ -1,0 +1,4 @@
+﻿  Quiz 4Acpp.cpp
+c:\users\fleur\documents\visual studio 2015\projects\quiz 4a\quiz 4a\quiz 4acpp.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Quiz 4A.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Quiz 4A\Debug\Quiz 4A.exe
+  Quiz 4A.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Quiz 4A\Debug\Quiz 4A.pdb (Full PDB)

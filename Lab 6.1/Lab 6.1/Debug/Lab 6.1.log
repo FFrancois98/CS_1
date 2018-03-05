@@ -1,0 +1,4 @@
+﻿  6.1.cpp
+c:\users\fleur\documents\visual studio 2015\projects\lab 6.1\lab 6.1\6.1.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : fatal error LNK1168: cannot open c:\users\fleur\documents\visual studio 2015\Projects\Lab 6.1\Debug\Lab 6.1.exe for writing
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: "link.exe" exited with code 1168.

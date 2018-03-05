@@ -1,0 +1,9 @@
+﻿  Quiz 2A.cpp
+c:\users\fleur\documents\visual studio 2015\projects\quiz 2a\quiz 2a\quiz 2a.cpp(41): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\quiz 2a\quiz 2a\quiz 2a.cpp(44): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\quiz 2a\quiz 2a\quiz 2a.cpp(47): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\quiz 2a\quiz 2a\quiz 2a.cpp(50): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\quiz 2a\quiz 2a\quiz 2a.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fleur\documents\visual studio 2015\projects\quiz 2a\quiz 2a\quiz 2a.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Quiz 2A.vcxproj -> C:\Users\fleur\documents\visual studio 2015\Projects\Quiz 2A\Debug\Quiz 2A.exe
+  Quiz 2A.vcxproj -> C:\Users\fleur\documents\visual studio 2015\Projects\Quiz 2A\Debug\Quiz 2A.pdb (Full PDB)

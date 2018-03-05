@@ -1,0 +1,3 @@
+Joe Smith    S          40         12
+Fred Davis   F          35         14
+June Freeman J          40         10

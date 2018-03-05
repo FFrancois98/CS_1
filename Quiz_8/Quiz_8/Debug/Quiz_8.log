@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\fleur\documents\visual studio 2015\projects\quiz_8\quiz_8\source.cpp(11): warning C4700: uninitialized local variable 'answer' used
+  Quiz_8.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Quiz_8\Debug\Quiz_8.exe
+  Quiz_8.vcxproj -> c:\users\fleur\documents\visual studio 2015\Projects\Quiz_8\Debug\Quiz_8.pdb (Full PDB)
